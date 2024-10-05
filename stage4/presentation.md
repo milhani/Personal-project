@@ -20,7 +20,7 @@ header-includes:
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
-#  Отчет по третьему этапу проекта
+#  Отчет по четвертому этапу проекта
 
 ## Цели и задачи
 
